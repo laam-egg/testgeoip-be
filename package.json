@@ -1,0 +1,17 @@
+{
+  "name": "testgeoiplite",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "doc999tor-fast-geoip": "^1.1.196",
+    "geoip-lite": "^1.4.10"
+  }
+}
